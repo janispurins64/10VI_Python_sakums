@@ -28,25 +28,18 @@ xc=float(input("Ievadi xc: "))
 yc=float(input("Ievadi yc: "))
 
 #Pārbaude
-
 #Šeitvajag
 
 xo=float(input("Ievadi xo: "))
-
 yo=float(input("Ievadi yo: "))
 
 # A _ O xa ya xo yo
-
 # y=k*x+b
 
 a1=[]
-
 b1=[]
-
 c1=[]
 
 print(p_koordinates(xa, ya, xo,yo)) #a1 punkta koordinates
-
 print(p_koordinates(xb, yb, xo, yo)) #b1 punkta koordinates
-
 print(p_koordinates(xc, yc, xo, yo)) #c1 punkta koordinates
